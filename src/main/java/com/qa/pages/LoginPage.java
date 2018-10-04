@@ -27,7 +27,7 @@ public class LoginPage extends TestBase	 {
 	@FindBy(xpath="//a[@class='navbar-brand']//img[@class='img-responsive']")
 	WebElement logo;
 
-	//initializing the page objects
+	//initializing the page objects *********
 	public LoginPage(){
 		PageFactory.initElements(driver, this);
 	}
