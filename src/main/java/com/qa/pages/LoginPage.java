@@ -1,6 +1,6 @@
 package com.qa.pages;
 
-
+//git comment
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
